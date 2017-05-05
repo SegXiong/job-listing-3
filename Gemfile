@@ -31,6 +31,7 @@ gem 'simple_form'
 gem 'devise'
 gem 'will_paginate'
 gem 'font-awesome-rails'
+gem 'carrierwave'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
